@@ -1,3 +1,0 @@
-movl $0x58cb07d3, 0x0804c1ec
-pushl $0x556830cc
-ret
