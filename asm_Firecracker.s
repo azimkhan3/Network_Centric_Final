@@ -1,3 +1,3 @@
-movl $0x58cb07d3, 0x0804c1ec
+movl $0x58cb07d3, 0x0804d1ec
 pushl $0x08049012
 ret
