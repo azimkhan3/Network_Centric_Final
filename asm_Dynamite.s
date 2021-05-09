@@ -1,3 +1,3 @@
 movl $0x58cb07d3, %eax
-pushl $0x556830e8
+pushl $0x08048c93
 ret
